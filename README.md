@@ -1,5 +1,5 @@
-# jdownloader2-pop-dark-theme
-A POP_OS! inspired gtk dark theme for jdownloader2.
+# jdownloader2-gtk-dark-theme
+A gtk theme for jdownloader2.
 
 ![Must have taken a wrong turn :/ ](https://github.com/tazihad/jdownloader2-pop-dark-theme/blob/main/Screenshot.png?)
 
